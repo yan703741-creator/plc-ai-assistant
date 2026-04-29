@@ -38,3 +38,6 @@ Currently under development and testing.
 
 ## Future Plan
 This project may be open-sourced and shared on developer communities such as GitHub and CSDN to help other students and developers.
+
+## Demo
+Basic API testing in progress.
